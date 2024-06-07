@@ -22,3 +22,9 @@ Check the first Address, Balance, TX Count
 Run command truffle migrate
 
 Check the first Address, Balance, TX Count (should have changes)
+
+
+Another Way
+clone this repo
+Go to pet-shop-tutorial
+run command truffle test
